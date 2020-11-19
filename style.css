@@ -1,0 +1,44 @@
+body{
+  margin: 0px;
+}
+#header {
+ background-color: #FFFFFF;
+
+}
+#menu {
+}
+.logo {
+  height: 100px;
+}
+#content {
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+#footer {
+  background-color: #FFFFFF;
+  height: 75px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: auto;
+  overflow: hidden;
+  background-color: black;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
